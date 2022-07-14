@@ -1,0 +1,48 @@
+1. git config --global user.name Pranto
+= git config --global user.name
+
+2. git config --global user.email 102pranto@gmail.com
+- git config --global user.email
+
+3. Git follow commend:
+-----git init (press enter button)--[ekta hidden file create hobe]
+
+4. Hidden file dhaker commend
+-- ls -lart
+
+5. new file create korar commend----
+-- touch style.css (press enter button)
+-- ekta new CSS file create hobe--
+
+6. git repositiory te add korar niyom--
+ -- git add index.html (enter korle ekta file add hobe)
+---- git add -A (Enter korle sob file add hobe )
+--- git status -- {commend diya check hobe}
+
+7. git reset korte hole
+--- git reset (Enter press korte hobe)
+
+8. projest ses korar por seta k add korte hobe [staged a]
+
+9. git commit {korte hobe } [commit kore unmodified a shift korte hobe]
+
+10.  commit korar por ---> text korte hobe {upore}
+	Initinl commit <---- ai ta ---->
+11. Initinl commit
+
+12. er por Keybord er (Esc) Button Press korte Hobe
+
+13. tarpor ( : ) symbol diya dita hobe (wq) Diya Enter Dita Hobe.....
+
+14.  j kono text delete hole backup ana jabi {
+	tar jonno : git checkout about.html (enter press)
+
+     sob delete hoya file backup anar jonno ata likte hobe -->
+	tar jonno: git chechout -f
+}
+
+15. ki ki change korci sate daker jonno ja korte hobe {
+	tar jonno: (git log) ---> (Enter Press korte Hobe)
+}
+
+16. s
